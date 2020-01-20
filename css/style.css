@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: white;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.boxuno {
+    position: relative;
+}
+
+.testo {
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+img {
+    border: solid black;
+    opacity: 60%;
+    width: 50%;
+    height: 50%;
+}
+
+.boxdue {
+    position: relative;
+}
+
+.testodue {
+    color: white;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+}
+
+.boxtre {
+    position: relative;
+}
+
+.testotre {
+    color: white;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+}
